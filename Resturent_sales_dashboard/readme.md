@@ -15,23 +15,25 @@ Finally, I created an **interactive dashboard** to visualize key insights and pe
 ---
 
 ## 🧹 Steps Performed  
-1. **Manual Data Entry** – Entered 60–70 rows of restaurant sales data manually  
-2. **Data Cleaning & Formatting** – Removed duplicates, standardized text, corrected spelling errors, and formatted columns  
-3. **New Columns Added** –  
+1. **Manual Data Entry** – Entered 60–70 rows of restaurant sales data manually
+![](https://github.com/sshankt/Data-Entry-Project/blob/main/Resturent_sales_dashboard/photo_6289746191159331689_w.jpg)  
+3. **Data Cleaning & Formatting** – Removed duplicates, standardized text, corrected spelling errors, and formatted columns
+4. ![](https://github.com/sshankt/Data-Entry-Project/blob/main/Resturent_sales_dashboard/photo_6289746191159331687_w.jpg)
+5. **New Columns Added** –  
    - Month  
    - First Name  
    - Total Amount (Quantity × Price)  
-4. **Data Analysis Using Pivot Tables** – Created insights such as:  
+6. **Data Analysis Using Pivot Tables** – Created insights such as:  
    - Total Orders & Total Revenue  
    - Sales by City  
    - Sales by Category  
    - Top 5 Customers  
    - Bottom 5 Customers  
-5. **Dashboard Creation** – Designed an interactive Excel dashboard using:  
+7. **Dashboard Creation** – Designed an interactive Excel dashboard using:  
    - Pivot Tables  
    - Slicers (Month & City)  
    - Hyperlinks to navigate between sheets  
-
+![](https://github.com/sshankt/Data-Entry-Project/blob/main/Resturent_sales_dashboard/photo_6289746191159331688_w.jpg)
 ---
 
 ## 📊 Key Insights  
@@ -54,6 +56,7 @@ Finally, I created an **interactive dashboard** to visualize key insights and pe
 - Experienced how to recover and rebuild a project after losing unsaved work  
 
 ---
+
 
 
 
