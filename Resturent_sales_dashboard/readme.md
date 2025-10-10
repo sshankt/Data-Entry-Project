@@ -4,9 +4,9 @@
 This project is based on restaurant sales data where I manually typed **60–70 rows** of raw data from a PDF file.  
 After entering the data, I cleaned, formatted, and transformed it in Excel to make it ready for analysis.  
 Finally, I created an **interactive dashboard** to visualize key insights and performance metrics.  
-![](https://github.com/sshankt/Data-Entry-Project/blob/main/Resturent_sales_dashboard/photo_6287494391345647187_w.jpg)
----
 
+---
+![](https://github.com/sshankt/Data-Entry-Project/blob/main/Resturent_sales_dashboard/photo_6287494391345647187_w.jpg)
 ## 🧠 Project Objectives  
 - Practice data entry, formatting, and cleaning skills  
 - Build a professional dashboard using Excel  
@@ -54,5 +54,6 @@ Finally, I created an **interactive dashboard** to visualize key insights and pe
 - Experienced how to recover and rebuild a project after losing unsaved work  
 
 ---
+
 
 
